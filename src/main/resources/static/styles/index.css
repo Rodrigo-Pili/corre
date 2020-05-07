@@ -1,0 +1,6 @@
+table#alter tr td { /* Toda a tabela com fundo creme */
+	background: #ffc;
+	} 
+table#alter tr.dif td {
+	background: #eee; /* Linhas com fundo cinza */
+	}
